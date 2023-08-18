@@ -129,5 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-#secrets.js
-src/secrets.js
+# #secrets.js
+# src/secrets.js
