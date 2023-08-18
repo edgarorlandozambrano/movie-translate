@@ -3,7 +3,7 @@ const sectionTrendingPreview = document.querySelector('#trendingPreview')
 const sectionCategoriesPreview = document.querySelector('#categoriesPreview')
 const sectionGenericListPreview = document.querySelector('#genericList')
 const sectionMovieDetailPreview = document.querySelector('#movieDetail')
-const translate = document.querySelector('#google_translate_element')
+const translate = document.querySelector('#google_translate_element') // last section traslate
 
 
 const searchForm = document.querySelector('#searchForm');

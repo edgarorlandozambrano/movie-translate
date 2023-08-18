@@ -30,7 +30,7 @@ function navigator() {
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0
 }
-
+// last section translate , show translate only in the homepage function anothers one is hidden
 function homePage(){
     console.log('home');
     translate.classList.remove('inactive')
